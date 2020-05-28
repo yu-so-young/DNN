@@ -34,24 +34,24 @@ h6 {
     color: #313131;
 }
 h1 {
-  font-size: 2rem;
+  font-size: 2.3rem;
 }
 
 h2 {
   margin-top: 1rem;
-  font-size: 1.5rem;
+  font-size: 2rem;
 }
 
 h3 {
   margin-top: 1.5rem;
-  font-size: 1.25rem;
+  font-size: 1.7rem;
 }
 
 h4,
 h5,
 h6 {
   margin-top: 1.1rem;
-  font-size: 1.1rem;
+  font-size: 1.4rem;
 }
 img {
   max-width: 100%;
@@ -245,6 +245,8 @@ article {
   }
   hr {
     border: 0;
+    width: 500px;
+    box-shadow: 0 10px 10px -10px #bbb inset;
     border-bottom: 1px solid #000;
     margin: 30px 0;
   }
