@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-[Go to my blog!](https://yu-so-young.github.io/blog/)
+### 👉 [Go to my blog!](https://yu-so-young.github.io/blog/)
 
 Hello.
 
